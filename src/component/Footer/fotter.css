@@ -1,0 +1,13 @@
+.footer-text{
+    font-weight: bold;
+    color: rgb(108, 110, 105);
+    margin-bottom: 1rem;
+    font-size: 1rem;
+    font-family: "Gill Sans", sans-serif;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+
+}
